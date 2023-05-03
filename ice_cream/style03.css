@@ -81,7 +81,7 @@ section{
 .vertical-line{
     height: 30px;
     width: 3px;
-    background: #f828cb;
+    background: #287bf8;
     margin: 0 auto;
 }
 .icons{
@@ -100,6 +100,15 @@ section{
 .icons li i:hover{
     color: #c850c0;
     cursor: pointer;
+}
+.btn{
+    margin: 15px 0;
+    border: 2px solid#4158d0;
+    list-style: none;
+    border-radius: 10px;
+    padding: 1px 5px;
+    width: 180px;
+    text-align: center;
 }
 
 
