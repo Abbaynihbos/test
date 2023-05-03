@@ -27,7 +27,8 @@ section{
     margin: 50px auto
 }
 .content{
-    background-color: #12192c;
+    
+    background-color: #6e8ee7; 
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -118,3 +119,4 @@ section{
     border-radius: none;
 }
 }
+
