@@ -18,7 +18,7 @@ $row=mysqli_fetch_array($result);
             <nav>
                 <ul>
                     <li><a href="">Home</a></li>
-                    <li><a href="">About</a></li>
+                    <li><a href="about.php">About</a></li>
                     <li><a href="" >Product</a></li>
                     <li><a href="">Order</a></li>
                 </ul>
