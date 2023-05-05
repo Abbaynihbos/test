@@ -47,7 +47,7 @@
                 </ul>
             </div>
     </section><br><br>
-        <a href="#" class="btn">Kembali Ke Home</a>
+        <a href="home.php" class="btn">Kembali Ke Home</a>
         <!-- Testing -->
 </body>
 </html>
